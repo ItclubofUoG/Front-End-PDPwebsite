@@ -453,6 +453,10 @@ html {
     left: 7%;
     padding-right: 15% ;
 }
+.imgevent {
+    width: 140px;
+    height: 270px;
+}
 
 @media screen and (max-width: 900px) { 
 
